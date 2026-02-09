@@ -60,7 +60,10 @@ java -cp src QuizJavaNotas
 
   ---
 
-Gabriel Rodrigues Ramos
+## Autor
+
+Gabriel Rodrigues Ramos  
+
 Estudante de Análise e Desenvolvimento de Sistemas
 
   
