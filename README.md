@@ -20,13 +20,13 @@ Aplicação de quiz em Java executada no terminal com sistema de pontuação, n�
 
   ---
 
-  ## Objetivo do Projeto
-  O Quiz é uma forma lúdica e, ao mesmo tempo, objetiva de frisar conteúdos lecionados dentro das disciplinas do curso. Ele existe para que os alunos de Análise e Desenvolvimento de Sistemas testem seus conhecimentos
-  acerca das disciplinas e possam receber um autodiagnóstico do quanto estão memorizando os conteúdos.
+## Objetivo do Projeto
+O Quiz é uma forma lúdica e, ao mesmo tempo, objetiva de frisar conteúdos lecionados dentro das disciplinas do curso. Ele existe para que os alunos de Análise e Desenvolvimento de Sistemas testem seus conhecimentos
+acerca das disciplinas e possam receber um autodiagnóstico do quanto estão memorizando os conteúdos.
 
   ---
 
-  ## Estrutura do Projeto
+## Estrutura do Projeto
 
 ```
 src/
@@ -36,13 +36,14 @@ README.md
 
 ```
   ---
-  ##Tecnologias
+  
+  ## Tecnologias
   - Java
   - Git e GitHub
 
   ---
 
-  ## Como executar
+## Como executar
 
 ```bash
 javac src/QuizJavaNotas.java
