@@ -71,7 +71,8 @@ Minha contribuição nessa fase incluiu:
 
 Os demais integrantes participaram de forma colaborativa no desenvolvimento inicial, especialmente na definição das regras de negócio.
 
-### Continuidade Individual
+## Continuidade Individual
 Após a conclusão da atividade acadêmica, o projeto passou a ser evoluído individualmente, com foco em novas funcionalidades, melhorias estruturais e aprofundamento técnico.
 
-  
+## Mantenedor
+Gabriel Rodrigues Ramos
