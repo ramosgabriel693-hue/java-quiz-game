@@ -43,11 +43,34 @@ README.md
 
   ---
 
-## Como executar
+## Como executar:
 
 ```bash
+
+1. Clone o repositório:
+
+git clone https://github.com/seuusuario/java-quiz-game.git
+
+
+2. Acesse a pasta do projeto:
+
+cd java-quiz-game
+
+
+3. Compile o código-fonte:
+
 javac src/QuizJavaNotas.java
+
+
+Este comando gera os arquivos .class a partir do código Java.
+
+4. Execute o programa:
+
 java -cp src QuizJavaNotas
+
+
+O parâmetro -cp src define o diretório onde estão os arquivos compilados.
+
 ```
   ---
 
